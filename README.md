@@ -1,0 +1,2 @@
+# DiamoERP-images
+Imágenes estáticas
